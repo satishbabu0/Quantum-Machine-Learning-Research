@@ -31,6 +31,16 @@ The goal is to improve:
 
 ---
 
+# 🌐 Live Project & Repository
+
+## 🔗 Live Deployed Website
+[Quantum Machine Learning Research Website](https://quantum-machine-learning-research.vercel.app)
+
+## 💻 GitHub Repository
+[Quantum-Machine-Learning-Research Repository](https://github.com/satishbabu0/Quantum-Machine-Learning-Research)
+
+---
+
 # 📊 System Architecture
 
 ```mermaid
